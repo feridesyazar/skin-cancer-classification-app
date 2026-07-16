@@ -4,3 +4,4 @@ tensorflow
 pillow
 numpy
 h5py
+huggingface_hub
