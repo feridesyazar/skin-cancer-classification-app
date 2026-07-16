@@ -1,0 +1,6 @@
+flask
+gunicorn
+tensorflow
+pillow
+numpy
+h5py
