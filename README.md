@@ -1,4 +1,4 @@
-# Skin Cancer Classification AI
+# Skin Cancer Classification 
 
 A Flask-based educational image-classification application using a trained
 TensorFlow/Keras model.
